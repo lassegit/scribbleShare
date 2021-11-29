@@ -10,11 +10,11 @@ To create a GIF an array of images is needed. To create an GIF of a drawing simp
 
 Creating a GIF drawing:
 
-![Creating a GIF drawing](assets/drawingToGif.gif | width=300)
+<img src="assets/drawingToGif.gif" width="300" />
 
 Created GIF:
 
-![Created GIF](assets/animated.gif | width=300)
+<img src="assets/animated.gif" width="300" />
 
 ### Pro
 
